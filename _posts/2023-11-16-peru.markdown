@@ -1,0 +1,80 @@
+---
+title: Peru
+slug: peru
+last_modified_at:
+layout: post
+categories: 35mm
+album: 2023-11-peru
+excerpt: >
+    See photos taken at...
+---
+
+{% assign album = site.data.albums[page.album] %}
+
+The start of this trip was challenging...
+
+The flight routes to Peru were surprisingly difficult. There are no direct flights from London or San Francisco and we both underestimated the longitudinal distance we were travellling (XX hours).
+
+When we arrived at SFO we were unable to board our flight to Los Angeles where we were meant to be catching a connecting flight down to Lima. Delta generously found and booked an alternative route for us at no cost however this meant 2 connections and XX hours spent travelling (in addition to my 11 hour flight to San Francisco the previous day).
+
+When we finally arrived in Lima (XX hours later than planned) we were exhausted and had about 5 hours to sleep before needing to be up to catch our Peruhop bus.
+
+I didn't get to explore Lima but the trip started going a little more to plan from this point onwards.
+
+{% include print_album_image.html album_index=0 %}
+
+Our first stop was Paracas where we went on a boat tour of the Belestas islands...
+
+{% include print_album_image.html album_index=1 %}
+
+Dolphins...?
+
+{% include print_album_image.html album_index=2 %}
+
+Huacachina
+
+{% include print_album_image.html album_index=3 %}
+
+Nasca lines
+
+{% include print_album_image.html album_index=4 %}
+
+{% include print_album_image.html album_index=5 %}
+
+{% include print_album_image.html album_index=6 %}
+
+{% include print_album_image.html album_index=7 %}
+
+{% include print_album_image.html album_index=8 %}
+
+{% include print_album_image.html album_index=9 %}
+
+{% include print_album_image.html album_index=10 %}
+
+{% include print_album_image.html album_index=11 %}
+
+{% include print_album_image.html album_index=12 %}
+
+{% include print_album_image.html album_index=13 %}
+
+{% include print_album_image.html album_index=14 %}
+
+{% include print_album_image.html album_index=15 %}
+
+{% include print_album_image.html album_index=16 %}
+
+{% include print_album_image.html album_index=17 %}
+
+{% include print_album_image.html album_index=18 %}
+
+{% include print_album_image.html album_index=19 %}
+
+{% include print_album_image.html album_index=20 %}
+
+{% include print_album_image.html album_index=21 %}
+
+{% include print_album_image.html album_index=22 %}
+
+{% include print_album_image.html album_index=23 %}
+
+{% include print_album_image.html album_index=24 %}
